@@ -1,0 +1,13 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  font-size: 15px;
+  background-color: black;
+}
+.header-side-heading {
+  display: flex;
+}
+.header-side-heading-partition {
+  padding: 10px;
+}
